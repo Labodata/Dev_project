@@ -1,0 +1,78 @@
+<!DOCTYPE html> <!-- C'est un fichier HTML -->
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>LINK / Jaurès Kangah</title>
+		<link rel="stylesheet" type="text/css" href="Design/Default.css">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/png" href="pictures/favicon.png">
+	</head>
+
+	<body>
+		<!-- ENTETE -->
+		<header>
+				<!-- PRENOM ET NOM -->
+				<h1>Jaurès Kangah</h1>
+				<!-- SPAN -->
+				<span class = "separator"></span>
+				<!-- NOM DU PROJET -->
+				<h2>LINK - Plateforme de freelancing</h2>
+		</header>
+
+		<!-- MENU -->
+		<nav>
+			<!-- LISTES NON ORDONNEES -->
+			<ul>
+				<li><a href="index.html">Accueil</a></li>  
+		        <li><a href="#Projets">Projets</a></li>
+		        <li><a href="Contact">Contact</a></li> 
+			</ul>
+		</nav>
+
+		<!-- SECTION -->
+		<div class="contener">
+			<!-- INTRODUCTION -->
+			<section>
+				<h3><b>INTRODUCTION</b></h3>
+			</section>
+
+			<section>
+					<!-- DESCRIPTION DU PROJET -->
+					<p>Ceci est mon premier projet.</p>
+
+			</section>
+
+			<!-- PRODUCTION -->
+			<section id="picrure-project">
+					<h3>PRODUCTION</h3>
+
+					<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OmUKOLUh7NM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+					<img width="90%" src="pictures/presentation.png" alt="mon premier projet" />
+
+					<video controls width="70%" src="pictures/Africa_Netpreneur_Prize.mp4">
+						Votre navigateur ne peut pas lire la vidéo.
+					</video>
+
+					<!-- <audio controls width="70%" src="pictures/Star_Wars.mp3">
+						Votre navigateur ne peut pas lire la musique.
+					</audio> -->
+			</section>
+
+			<!-- CONTACT -->
+			<section>
+				<h3><b>CONTACT</b></h3>
+
+				<div id="CONTACT">
+					<!-- DESCRIPTION -->
+					<p>Si vous voulez me contacter, n'hésitez pas à m'envoyer un email à <a href="mailto:jaureskangah@ymail.com">jaureskangah@ymail.com</a> ou à <a href="mailto:jaureskangah2016@gmail.com"> jaureskangah2016@gmail.com</a></p>
+				</div>
+			</section>
+		</div>
+		<!-- FOOTER -->
+	<footer>
+		<span>2019 &copy; Jaurès KANGAH</span>
+	</footer>
+	</body>
+</html
