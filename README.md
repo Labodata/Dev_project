@@ -1,2 +1,2 @@
 # Dev_project
-Site web perso (HTML5, CSS3, PHP &amp; Mysql)
+Ce repository va contenir l'ensemble du code de mon site web perso. Il a été conçu avec du code HTML5, CSS3, PHP et Mysql.
